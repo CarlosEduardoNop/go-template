@@ -5,7 +5,7 @@ Este é um projeto template para iniciar um novo repo em Go.
 ### Iniciar projeto
 
 Primeiramente, utilize clone o repositório:
-`git clone `
+`git clone https://github.com/CarlosEduardoNop/go-template.git`
 
 Após clonar o repositório, é necessário criar o arquivo .env:
 `cp .env.example env`
